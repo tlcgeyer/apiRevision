@@ -1,5 +1,5 @@
 // console.log('Subtraction');
 
-exports.Subtraction = (a, b)=> {
+exports.subtraction = (a, b)=> {
     return a > b ? a - b : b - a
 }
